@@ -37,7 +37,8 @@ Joao:
 
 Greg: 
 * Who would be using OpenTire?
-* MATLAB should be able to call native Python code, it's easier.
+* MATLAB should be able to call native Python code, it's easier. Check the link:
+https://uk.mathworks.com/videos/using-matlab-with-python-1591216182793.html?s_v1=30441&elqem=3041660_EM_NA_LWB_20-05_USING-MATLAB-WITH-PYTHON_POST&elqTrackId=fa4dd24122fe44979f22ae5e58252557&elq=8ffb28c0b9494d8baaba7cfa3edc31e4&elqaid=30441&elqat=1&elqCampaignId=11073
 
 ## Conclusions:
 
